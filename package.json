@@ -1,6 +1,6 @@
 {
   "name": "numbers-to-arabic",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "numbers-to-arabic converts a numerical number into a written one, supports 2 languages and has zero dependencies.",
   "keywords": [
     "convert",
